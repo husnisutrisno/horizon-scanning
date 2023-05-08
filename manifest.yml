@@ -1,0 +1,5 @@
+---
+applications:
+ - name: horizon-scanning
+   host: horizon-scanning
+   memory: 1G
